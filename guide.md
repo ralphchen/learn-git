@@ -68,5 +68,8 @@ git push -u origin master
 
 #### 添加github上的目录
 
+```
 git add 文件夹/  #添加整个文件夹及内容
 git add *.文件类型  #添加目录中所有文件类型的文件
+```
+
