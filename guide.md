@@ -73,3 +73,10 @@ git add 文件夹/  #添加整个文件夹及内容
 git add *.文件类型  #添加目录中所有文件类型的文件
 ```
 
+#### 重命名文件和文件夹
+```
+git mv -f oldfolder newfolder
+git add -u newfolder  #-u 选项会更新已经追踪的文件和文件夹。
+
+```
+
